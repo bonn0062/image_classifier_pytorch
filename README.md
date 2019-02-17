@@ -1,7 +1,8 @@
 # image_classifier_pytorch
-An image classifier with >97% accuracy. Classifier is built with Python, PyTorch, Numpy, Matplotlib, Seaborn, JSON, and PIL.
 
-This is the repo for the FreeCodeCamp article *How to build an image classifier with greater than 97% accuracy* [The article can be found here](https://medium.freecodecamp.org/how-to-build-the-best-image-classifier-3c72010b3d55)  The image classifier was built as the final project for the Facebook AI PyTorch Challenge.
+This is the repo for the FreeCodeCamp article *How to build an image classifier with greater than 97% accuracy* [The article can be found here](https://medium.freecodecamp.org/how-to-build-the-best-image-classifier-3c72010b3d55)  
+
+*The image classifier was built as the final project for the Facebook AI PyTorch Challenge.*
 
 **From the article:**
 
